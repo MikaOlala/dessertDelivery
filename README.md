@@ -12,3 +12,5 @@ Website has:
 ✅ Search
 ✅ Basket
 ✅ Cafe page
+
+<img src="img/image1.png" width="60%" />
