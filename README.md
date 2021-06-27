@@ -13,4 +13,4 @@ Website has:
 ✅ Basket
 ✅ Cafe page
 
-<img src="img/image1.JPG" width="60%" />
+<img src="img/image1.JPG" width="80%" />
